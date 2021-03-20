@@ -20,24 +20,6 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        // if(Input.GetKeyDown(KeyCode.UpArrow)){
-        //     // movingDirection.y += 1;
-        //     rb.velocity = transform.forward * Time.deltaTime * speed;
-        //     isMoving = true;
-        // }
-        // if(Input.GetKeyDown(KeyCode.DownArrow)){
-        //     // movingDirection.y -= 1;
-        //     rb.velocity = -transform.forward * Time.deltaTime * speed;
-        //     isMoving = true;
-        // }
-        // if(Input.GetKeyDown(KeyCode.RightArrow)){
-        //     // movingDirection.x += 1;
-        //     isMoving = true;
-        // }
-        // if(Input.GetKeyDown(KeyCode.LeftArrow)){
-        //     // movingDirection.x -= 1;
-        //     isMoving = true;
-        // }
 
 
     }
