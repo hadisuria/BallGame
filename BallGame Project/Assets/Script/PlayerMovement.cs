@@ -5,11 +5,9 @@ using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [SerializeField]private float speed = 0;
-    private float maxSpeed = 300;
-    // private Vector3 movingDirection = Vector3();
+    [SerializeField]private float speed = 10;
     private Rigidbody rb;
-    private bool isMoving;
+
     private float movementX;
     private float movementY;
 
